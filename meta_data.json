@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "ecommerce"
+    },
+    "description": "this is the pdf converter plugin",
+    "image": "//s3.amazonaws.com/appforest_uf/f1672121357609x948518315880819100/bb46b97de13eb9b590de%20%281%29%20%281%29.svg",
+    "license": "open_source",
+    "name": "PDF Converter"
+}

@@ -1,0 +1,21 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "pdf",
+    "fields": {
+        "AAD": {
+            "caption": "File uploded",
+            "default_val": "//s3.amazonaws.com/appforest_uf/f1672121017119x975458441488753500/360.gif",
+            "doc": "this is the file uploder",
+            "editor": "DynamicValue",
+            "name": "file_uploded",
+            "rank": 0,
+            "value": "file"
+        }
+    },
+    "icon": "ion-android-checkbox-blank"
+}
